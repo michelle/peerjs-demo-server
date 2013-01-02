@@ -1,6 +1,6 @@
 var peer = require('peer');
 
-ps = new peer.PeerServer({ port: process.env.PORT, debug: true });
+ps = new peer.PeerServer({ port: 80, debug: true });
 
 // Initialize main server
 /*app.use(express.bodyParser());
