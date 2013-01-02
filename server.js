@@ -1,7 +1,4 @@
-var express = require('express');
-var fs = require('fs');
 var peer = require('peer');
-var app =  express.createServer();
 
 ps = new peer.PeerServer({ debug: true });
 

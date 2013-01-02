@@ -5,8 +5,6 @@
   "main": "server.js",
   "dependencies": {
     "peer": "0.0.1",
-    "ejs": "~0.8.3",
-    "express": "~3.0.5"
   },
   "devDependencies": {},
   "scripts": {
